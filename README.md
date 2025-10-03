@@ -12,7 +12,7 @@
 ###  IDE
 | IDE 종류 | 버전 |
 |----------|-------|
-| VS CODE | |
+| VS CODE | 1.103.2 |
 
 ---
 
@@ -22,6 +22,8 @@
 | |  |
 |  |  |
 |  |  |
+
+<img width="711" height="157" alt="image" src="https://github.com/user-attachments/assets/a0dfb65b-c899-4240-93ed-fcd951278cdd" />
 
 
 
